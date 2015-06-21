@@ -11,7 +11,7 @@ EVTYPE_CODE;EVTYPE;EVENT
 107    heavy surf coastal flooding;   heavy surf coastal flooding;coastal flood
 108                     heavy surf;                    heavy surf;high surf
 109            heavy precipatation;           heavy precipatation;heavy rain
-11                     record cold;         record cold;"""Cold/Wind Chill"","
+11                     record cold;         record cold;Cold/Wind Chill
 110                 urban flooding;                urban flooding;flood
 111                      high surf;                     high surf;high surf
 112                   blowing dust;                  blowing dust;nd
@@ -22,7 +22,7 @@ EVTYPE_CODE;EVTYPE;EVENT
 117                    water spout;                   water spout;nd
 118          high winds dust storm;         high winds dust storm;high wind
 119        winter storm high winds;       winter storm high winds;high wind
-12                  hurricane erin;      hurricane erin;"""Hurricane (Typhoon)"","
+12                  hurricane erin;      hurricane erin;Hurricane (Typhoon)
 120                    local flood;                   local flood;flood
 121                  winter storms;                 winter storms;winter storm
 122                      mudslides;                     mudslides;nd
@@ -33,7 +33,7 @@ EVTYPE_CODE;EVTYPE;EVENT
 127            thunderstorms winds;           thunderstorms winds;high wind
 128                 dry microburst;                dry microburst;nd
 129              flood/flash flood;             flood/flash flood;flash flood
-13                  hurricane opal;      hurricane opal;"""Hurricane (Typhoon)"","
+13                  hurricane opal;      hurricane opal;Hurricane (Typhoon)
 130               flood/rain/winds;              flood/rain/winds;flood
 131                          winds;                         winds;high wind
 132              dry microburst 61;             dry microburst 61;nd
@@ -74,7 +74,7 @@ EVTYPE_CODE;EVTYPE;EVENT
 164                  high winds 80;                 high winds 80;high wind
 165                  high winds 58;                 high winds 58;high wind
 166               freezing drizzle;              freezing drizzle;frost/freeze
-167  lightning thunderstorm windss; lightning thunderstorm windss;"""Cold/Wind Chill"","
+167  lightning thunderstorm windss; lightning thunderstorm windss;Cold/Wind Chill
 168              dry microburst 58;             dry microburst 58;nd
 169                        hail 75;                       hail 75;hail
 17                       dense fog;           dense fog;fog
@@ -98,9 +98,9 @@ EVTYPE_CODE;EVTYPE;EVENT
 186               unseasonably wet;              unseasonably wet;nd
 187                     wintry mix;                    wintry mix;nd
 188                 winter weather;                winter weather;winter weather
-189              unseasonably cold;             unseasonably cold;"""Cold/Wind Chill"","
+189              unseasonably cold;             unseasonably cold;Cold/Wind Chill
 19               thunderstorm wins;   thunderstorm wins;ice storm
-190            extreme/record cold;           extreme/record cold;"""Cold/Wind Chill"","
+190            extreme/record cold;           extreme/record cold;Cold/Wind Chill
 191        rip currents heavy surf;       rip currents heavy surf;high surf
 192                sleet/rain/snow;               sleet/rain/snow;heavy rain
 193              unseasonably warm;             unseasonably warm;nd
@@ -140,7 +140,7 @@ EVTYPE_CODE;EVTYPE;EVENT
 223          thunderstorm winds 13;         thunderstorm winds 13;high wind
 224                     small hail;                    small hail;hail
 225           heavy snow/high wind;          heavy snow/high wind;high wind
-226                      hurricane;                     hurricane;"""Hurricane (Typhoon)"","
+226                      hurricane;                     hurricane;Hurricane (Typhoon)
 227               wild/forest fire;              wild/forest fire;nd
 228          small stream flooding;         small stream flooding;flood
 229                      mud slide;                     mud slide;nd
@@ -158,9 +158,9 @@ EVTYPE_CODE;EVTYPE;EVENT
 24                      tornado f0;          tornado f0;tornado
 240       small stream/urban flood;      small stream/urban flood;flood
 241       snow/sleet/freezing rain;      snow/sleet/freezing rain;frost/freeze
-242                    severe cold;                   severe cold;"""Cold/Wind Chill"","
+242                    severe cold;                   severe cold;Cold/Wind Chill
 243                      glaze ice;                     glaze ice;ice storm
-244                      cold wave;                     cold wave;"""Cold/Wind Chill"","
+244                      cold wave;                     cold wave;Cold/Wind Chill
 245                     early snow;                    early snow;heavy snow
 246   small stream and urban flood;  small stream and urban flood;flood
 247                    high  winds;                   high  winds;high wind
@@ -170,7 +170,7 @@ EVTYPE_CODE;EVTYPE;EVENT
 250                     mud slides;                    mud slides;nd
 251                        hail 80;                       hail 80;hail
 252             extreme wind chill;            extreme wind chill;high wind
-253        cold and wet conditions;       cold and wet conditions;"""Cold/Wind Chill"","
+253        cold and wet conditions;       cold and wet conditions;Cold/Wind Chill
 254              excessive wetness;             excessive wetness;nd
 255                 gradient winds;                gradient winds;high wind
 256        heavy snow/blowing snow;       heavy snow/blowing snow;heavy snow
@@ -180,9 +180,9 @@ EVTYPE_CODE;EVTYPE;EVENT
 26         thunderstorm winds/hail;       thunderstorm winds/hail;high wind
 260            rotating wall cloud;           rotating wall cloud;funnel cloud
 261               large wall cloud;              large wall cloud;funnel cloud
-262                cold air funnel;               cold air funnel;"""Cold/Wind Chill"","
+262                cold air funnel;               cold air funnel;Cold/Wind Chill
 263                       gustnado;                      gustnado;nd
-264               cold air funnels;              cold air funnels;"""Cold/Wind Chill"","
+264               cold air funnels;              cold air funnels;Cold/Wind Chill
 265 blowing snow- extreme wind chi;blowing snow- extreme wind chi;high wind
 266            snow and heavy snow;           snow and heavy snow;heavy snow
 267                ground blizzard;               ground blizzard;blizzard
@@ -217,7 +217,7 @@ EVTYPE_CODE;EVTYPE;EVENT
 293                      snowstorm;                     snowstorm;heavy snow
 294                    grass fires;                   grass fires;nd
 295                     lake flood;                    lake flood;coastal flood
-296                   prolong cold;                  prolong cold;"""Cold/Wind Chill"","
+296                   prolong cold;                  prolong cold;Cold/Wind Chill
 297                      hail/wind;                     hail/wind;high wind
 298                      hail 1.75;                     hail 1.75;hail
 299               thunderstormw 50;              thunderstormw 50;ice storm
@@ -242,7 +242,7 @@ EVTYPE_CODE;EVTYPE;EVENT
 315            waterspout/ tornado;           waterspout/ tornado;tornado
 316                     lightning.;                    lightning.;lightning
 317            warm dry conditions;           warm dry conditions;nd
-318     hurricane-generated swells;    hurricane-generated swells;"""Hurricane (Typhoon)"","
+318     hurricane-generated swells;    hurricane-generated swells;Hurricane (Typhoon)
 319           heavy snow/ice storm;          heavy snow/ice storm;heavy snow
 32                          funnel;                        funnel;funnel cloud
 320         river and stream flood;        river and stream flood;coastal flood
@@ -299,7 +299,7 @@ EVTYPE_CODE;EVTYPE;EVENT
 367          blizzard/winter storm;         blizzard/winter storm;blizzard
 368          dust storm/high winds;         dust storm/high winds;high wind
 369                        ice jam;                       ice jam;ice storm
-37                            cold;                          cold;"""Cold/Wind Chill"","
+37                            cold;                          cold;Cold/Wind Chill
 370                   forest fires;                  forest fires;nd
 371          thunderstorm wind g60;         thunderstorm wind g60;high wind
 372                  frost\\freeze;                 frost\\freeze;frost/freeze
@@ -352,11 +352,11 @@ EVTYPE_CODE;EVTYPE;EVENT
 414               lightning damage;              lightning damage;lightning
 415            record temperatures;           record temperatures;nd
 416            lightning and winds;           lightning and winds;high wind
-417      fog and cold temperatures;     fog and cold temperatures;"""Cold/Wind Chill"","
+417      fog and cold temperatures;     fog and cold temperatures;Cold/Wind Chill
 418                          other;                         other;nd
 419                    record snow;                   record snow;heavy snow
 42                      waterspout;                    waterspout;waterspout
-420                      snow/cold;                     snow/cold;"""Cold/Wind Chill"","
+420                      snow/cold;                     snow/cold;Cold/Wind Chill
 421      flash flood from ice jams;     flash flood from ice jams;flash flood
 422                  tstm wind g58;                 tstm wind g58;thunderstorm wind
 423                       mudslide;                      mudslide;nd
@@ -366,7 +366,7 @@ EVTYPE_CODE;EVTYPE;EVENT
 427                      icy roads;                     icy roads;nd
 428                      heavy mix;                     heavy mix;nd
 429             snow freezing rain;            snow freezing rain;frost/freeze
-43                    extreme cold;                  extreme cold;"""Cold/Wind Chill"","
+43                    extreme cold;                  extreme cold;Cold/Wind Chill
 430                   lack of snow;                  lack of snow;heavy snow
 431                     snow/sleet;                    snow/sleet;heavy snow
 432             snow/freezing rain;            snow/freezing rain;frost/freeze
@@ -382,9 +382,9 @@ EVTYPE_CODE;EVTYPE;EVENT
 441                torrential rain;               torrential rain;heavy rain
 442                     tornado f2;                    tornado f2;tornado
 443                   rip currents;                  rip currents;rip current
-444                hurricane emily;               hurricane emily;"""Hurricane (Typhoon)"","
-445               hurricane gordon;              hurricane gordon;"""Hurricane (Typhoon)"","
-446                hurricane felix;               hurricane felix;"""Hurricane (Typhoon)"","
+444                hurricane emily;               hurricane emily;Hurricane (Typhoon)
+445               hurricane gordon;              hurricane gordon;Hurricane (Typhoon)
+446                hurricane felix;               hurricane felix;Hurricane (Typhoon)
 447       thunderstorm wind 59 mph;      thunderstorm wind 59 mph;high wind
 448      thunderstorm winds 63 mph;     thunderstorm winds 63 mph;high wind
 449        thunderstorm wind/ tree;       thunderstorm wind/ tree;high wind
@@ -430,7 +430,7 @@ EVTYPE_CODE;EVTYPE;EVENT
 485          thunderstorm wind g51;         thunderstorm wind g51;high wind
 486              heat wave drought;             heat wave drought;drought
 487  heavy snow/blizzard/avalanche; heavy snow/blizzard/avalanche;avalanche
-488               record snow/cold;              record snow/cold;"""Cold/Wind Chill"","
+488               record snow/cold;              record snow/cold;Cold/Wind Chill
 489                    wet weather;                   wet weather;nd
 49                      wind chill;                    wind chill;high wind
 490      unseasonably warm and dry;     unseasonably warm and dry;nd
@@ -457,14 +457,14 @@ EVTYPE_CODE;EVTYPE;EVENT
 509     heavy rain/mudslides/flood;    heavy rain/mudslides/flood;flood
 51              high wind/blizzard;            high wind/blizzard;blizzard
 510                 mud/rock slide;                mud/rock slide;nd
-511                high winds/cold;               high winds/cold;"""Extreme Cold/Wind Chill"","
+511                high winds/cold;               high winds/cold;Extreme Cold/Wind Chill
 512    beach erosion/coastal flood;   beach erosion/coastal flood;coastal flood
-513                     cold/winds;                    cold/winds;"""Cold/Wind Chill"","
-514              snow/ bitter cold;             snow/ bitter cold;"""Cold/Wind Chill"","
+513                     cold/winds;                    cold/winds;Cold/Wind Chill
+514              snow/ bitter cold;             snow/ bitter cold;Cold/Wind Chill
 515           thunderstorm wind 56;          thunderstorm wind 56;high wind
 516                     snow sleet;                    snow sleet;heavy snow
 517                dry hot weather;               dry hot weather;nd
-518                   cold weather;                  cold weather;"""Cold/Wind Chill"","
+518                   cold weather;                  cold weather;Cold/Wind Chill
 519           rapidly rising water;          rapidly rising water;nd
 52                     river flood;                   river flood;coastal flood
 520                     hail aloft;                    hail aloft;hail
@@ -518,12 +518,12 @@ EVTYPE_CODE;EVTYPE;EVENT
 564                              ?;                             ?;nd
 565              thunderstrom wind;             thunderstrom wind;high wind
 566               flood/flashflood;              flood/flashflood;flash flood
-567                  snow and cold;                 snow and cold;"""Cold/Wind Chill"","
+567                  snow and cold;                 snow and cold;Cold/Wind Chill
 568                    hot pattern;                   hot pattern;nd
-569              prolong cold/snow;             prolong cold/snow;"""Cold/Wind Chill"","
+569              prolong cold/snow;             prolong cold/snow;Cold/Wind Chill
 57  high wind/blizzard/freezing ra;high wind/blizzard/freezing ra;blizzard
 570                    brush fires;                   brush fires;nd
-571                     snow\\cold;                    snow\\cold;"""Cold/Wind Chill"","
+571                     snow\\cold;                    snow\\cold;Cold/Wind Chill
 572                     winter mix;                    winter mix;winter weather
 573        excessive precipitation;       excessive precipitation;nd
 574                snowfall record;               snowfall record;heavy snow
@@ -532,7 +532,7 @@ EVTYPE_CODE;EVTYPE;EVENT
 577               mild/dry pattern;              mild/dry pattern;nd
 578                   mild pattern;                  mild pattern;nd
 579                     landslides;                    landslides;nd
-58                      high tides;                    high tides;"""Storm Surge/Tide"","
+58                      high tides;                    high tides;Storm Surge/Tide
 580                  heavy showers;                 heavy showers;nd
 581                 heavy snow and;                heavy snow and;heavy snow
 582                   high wind 48;                  high wind 48;high wind
@@ -555,7 +555,7 @@ EVTYPE_CODE;EVTYPE;EVENT
 598         flash flood landslides;        flash flood landslides;flood
 599              extreme windchill;             extreme windchill;high wind
 6            ice storm/flash flood;ce storm/flash flood;flash flood
-60       record cold and high wind;     record cold and high wind;"""Extreme Cold/Wind Chill"","
+60       record cold and high wind;     record cold and high wind;Extreme Cold/Wind Chill
 600           urban/sml stream fld;          urban/sml stream fld;nd
 601                 tstm wind/hail;                tstm wind/hail;thunderstorm wind
 602               record dry month;              record dry month;nd
@@ -576,18 +576,18 @@ EVTYPE_CODE;EVTYPE;EVENT
 616                    hot and dry;                   hot and dry;nd
 617           heavy rain/high surf;          heavy rain/high surf;heavy rain
 618                    rain damage;                   rain damage;heavy rain
-619              unseasonable cold;             unseasonable cold;"""Cold/Wind Chill"","
+619              unseasonable cold;             unseasonable cold;Cold/Wind Chill
 62                     record high;                   record high;nd
 620                street flooding;               street flooding;flood
 621                        ice fog;                       ice fog;fog
-622                 excessive cold;                excessive cold;"""Cold/Wind Chill"","
+622                 excessive cold;                excessive cold;Cold/Wind Chill
 623            torrential rainfall;           torrential rainfall;heavy rain
 624                      landslump;                     landslump;nd
 625           late-season snowfall;          late-season snowfall;heavy snow
-626              hurricane edouard;             hurricane edouard;"""Hurricane (Typhoon)"","
+626              hurricane edouard;             hurricane edouard;Hurricane (Typhoon)
 627                heavy rain/wind;               heavy rain/wind;high wind
 628             record warm temps.;            record warm temps.;nd
-629                  extended cold;                 extended cold;"""Cold/Wind Chill"","
+629                  extended cold;                 extended cold;Cold/Wind Chill
 63          high winds heavy rains;        high winds heavy rains;high wind
 630                   freezing fog;                  freezing fog;freezing fog
 631                  drifting snow;                 drifting snow;heavy snow
@@ -689,19 +689,19 @@ EVTYPE_CODE;EVTYPE;EVENT
 718              seasonal snowfall;             seasonal snowfall;heavy snow
 719               monthly rainfall;              monthly rainfall;heavy rain
 72          low temperature record;        low temperature record;nd
-720               cold temperature;              cold temperature;"""Cold/Wind Chill"","
+720               cold temperature;              cold temperature;Cold/Wind Chill
 721                 sml stream fld;                sml stream fld;nd
 722             mudslide/landslide;            mudslide/landslide;nd
 723                   volcanic ash;                  volcanic ash;volcanic ash
 724             volcanic ash plume;            volcanic ash plume;volcanic ash
 725             thundersnow shower;            thundersnow shower;heavy snow
 726                           none;                          none;nd
-727                  cold and snow;                 cold and snow;"""Cold/Wind Chill"","
+727                  cold and snow;                 cold and snow;Cold/Wind Chill
 728                      dam break;                     dam break;nd
 729                tstm wind (g45);               tstm wind (g45);thunderstorm wind
 73                       avalanche;                     avalanche;avalanche
 730            sleet/freezing rain;           sleet/freezing rain;frost/freeze
-731                 blow-out tides;                blow-out tides;"""Storm Surge/Tide"","
+731                 blow-out tides;                blow-out tides;Storm Surge/Tide
 732              unseasonably cool;             unseasonably cool;nd
 733                tstm heavy rain;               tstm heavy rain;heavy rain
 734                   tstm wind 40;                  tstm wind 40;thunderstorm wind
@@ -717,7 +717,7 @@ EVTYPE_CODE;EVTYPE;EVENT
 743          urban/sml stream fldg;         urban/sml stream fldg;nd
 744               strong wind gust;              strong wind gust;strong wind
 745                    late freeze;                   late freeze;frost/freeze
-746                  blow-out tide;                 blow-out tide;"""Storm Surge/Tide"","
+746                  blow-out tide;                 blow-out tide;Storm Surge/Tide
 747           hypothermia/exposure;          hypothermia/exposure;nd
 748            mixed precipitation;           mixed precipitation;nd
 749                   coastalstorm;                  coastalstorm;ice storm
@@ -735,7 +735,7 @@ EVTYPE_CODE;EVTYPE;EVENT
 76   high wind/wind chill/blizzard; high wind/wind chill/blizzard;blizzard
 760            heavy surf and wind;           heavy surf and wind;high wind
 761           mild and dry pattern;          mild and dry pattern;nd
-762                        typhoon;                       typhoon;"""Hurricane (Typhoon)"","
+762                        typhoon;                       typhoon;Hurricane (Typhoon)
 763                    high swells;                   high swells;nd
 764                   high  swells;                  high  swells;nd
 765                      dry spell;                     dry spell;nd
@@ -757,8 +757,8 @@ EVTYPE_CODE;EVTYPE;EVENT
 78            high wind/heavy snow;          high wind/heavy snow;high wind
 780                 unusual warmth;                unusual warmth;nd
 781                  wake low wind;                 wake low wind;high wind
-782              cold temperatures;             cold temperatures;"""Cold/Wind Chill"","
-783   cold wind chill temperatures;  cold wind chill temperatures;"""Cold/Wind Chill"","
+782              cold temperatures;             cold temperatures;Cold/Wind Chill
+783   cold wind chill temperatures;  cold wind chill temperatures;Cold/Wind Chill
 784                  moderate snow;                 moderate snow;heavy snow
 785              moderate snowfall;             moderate snowfall;heavy snow
 786          urban/street flooding;         urban/street flooding;flood
@@ -800,7 +800,7 @@ EVTYPE_CODE;EVTYPE;EVENT
 818                      landspout;                     landspout;nd
 819                   driest month;                  driest month;nd
 82                  high wind/seas;                high wind/seas;high wind
-820                   record  cold;                  record  cold;"""Cold/Wind Chill"","
+820                   record  cold;                  record  cold;Cold/Wind Chill
 821               late season hail;              late season hail;hail
 822                 excessive snow;                excessive snow;heavy snow
 823                        dryness;                       dryness;nd
@@ -818,7 +818,7 @@ EVTYPE_CODE;EVTYPE;EVENT
 834                  tstm wind g45;                 tstm wind g45;thunderstorm wind
 835                non severe hail;               non severe hail;hail
 836         non-severe wind damage;        non-severe wind damage;high wind
-837                 unusually cold;                unusually cold;"""Cold/Wind Chill"","
+837                 unusually cold;                unusually cold;Cold/Wind Chill
 838                   warm weather;                  warm weather;nd
 839        thunderstorm wind (g40);       thunderstorm wind (g40);high wind
 84                       high seas;                     high seas;nd
@@ -866,18 +866,18 @@ EVTYPE_CODE;EVTYPE;EVENT
 878                 abnormally wet;                abnormally wet;nd
 879                 tornado debris;                tornado debris;tornado
 88                   record warmth;                 record warmth;nd
-880        extreme cold/wind chill;       extreme cold/wind chill;"""Cold/Wind Chill"","
+880        extreme cold/wind chill;       extreme cold/wind chill;Cold/Wind Chill
 881                    ice on road;                   ice on road;ice storm
 882                       drowning;                      drowning;nd
 883        gusty thunderstorm wind;       gusty thunderstorm wind;high wind
 884                    marine hail;                   marine hail;marine hail
 885           high surf advisories;          high surf advisories;high surf
-886              hurricane/typhoon;             hurricane/typhoon;"""Hurricane (Typhoon)"","
+886              hurricane/typhoon;             hurricane/typhoon;Hurricane (Typhoon)
 887           heavy surf/high surf;          heavy surf/high surf;high surf
 888                    sleet storm;                   sleet storm;ice storm
 889               storm surge/tide;              storm surge/tide;ice storm
 89                 heavy snow/wind;               heavy snow/wind;high wind
-890                cold/wind chill;               cold/wind chill;"""Cold/Wind Chill"","
+890                cold/wind chill;               cold/wind chill;Cold/Wind Chill
 891               marine high wind;              marine high wind;marine high wind
 892                        tsunami;                       tsunami;tsunami
 893                    dense smoke;                   dense smoke;dense smoke
@@ -896,4 +896,4 @@ EVTYPE_CODE;EVTYPE;EVENT
 96                   funnel clouds;                 funnel clouds;funnel cloud
 97                    flash floods;                  flash floods;flash flood
 98                      dust devil;                    dust devil;dust devil
-99                  excessive heat;                excessive heat;"""Excessive Heat"","
+99                  excessive heat;                excessive heat;Excessive Heat
